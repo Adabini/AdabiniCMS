@@ -1,0 +1,33 @@
+{
+    "title": "New Site",
+    "description-length": 5,
+    "posts": 
+    [
+        {
+            "title": "post1",
+            "image": "http://www.pixelstalk.net/wp-content/uploads/2016/06/HD-Jungle-Image.jpg",
+            "date": "2/4/2021",
+            "text": 
+            [
+                "hello,",
+                "welcome to your new blog! :)"
+            ]
+        },
+        {
+            "title": "post2",
+            "image": "http://www.privateislandsonline.com/uploads/245/image_d05d567275.jpg",
+            "date": "2/4/2021",
+            "text": 
+            [
+                "hello,",
+                "i see you clicked on the second post! :)",
+                "do you like it?",
+                "i plan to add more themes to make it look better.",
+                "maybe you can help?",
+                "send me more themes using the contact infomation on the project website",
+                "i will give you credit! :)",
+                "in the meantime, have fun building your blog"
+            ]
+        }
+    ]
+}
